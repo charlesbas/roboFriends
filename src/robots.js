@@ -26,13 +26,13 @@ export const robots = [
   {
     id: 5,
     name: 'Fortune Ayeosa',
-    username: 'Charlesbas',
+    username: 'Aye',
     email: 'osayiobasuyi@gmail.com'
   },
   {
     id: 6,
     name: 'Kester Nero',
-    username: 'Charlesbas',
+    username: 'Nero',
     email: 'osayiobasuyi@gmail.com'
   },
 ]
